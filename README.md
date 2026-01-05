@@ -1,9 +1,9 @@
-![Billy Tien](https://github.com/user-attachments/assets/28ce46e2-0ddb-46e9-af3f-4c8f0616a219)
+
 
 <img src="[https://example.com/image.png](https://github.com/user-attachments/assets/28ce46e2-0ddb-46e9-af3f-4c8f0616a219)" width="50%">
 <!--
 **TienPingLi/TienPingLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+![Billy Tien](https://github.com/user-attachments/assets/28ce46e2-0ddb-46e9-af3f-4c8f0616a219)
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
