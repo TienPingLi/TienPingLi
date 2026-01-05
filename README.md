@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently studying at [Yuan Ze University(Computer Science)](https://www.cse.yzu.edu.tw/)
 
-- 🌱 I’m currently learning **I am currently learning essential skills for computer science students.**
+- 🌱 I’m currently learning **essential skills for computer science students.**
 
 - 📫 How to reach me **billyten0208@gmail.com**
 
