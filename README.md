@@ -1,5 +1,6 @@
-
-![未命名設計](https://github.com/user-attachments/assets/80df6822-8451-426f-9870-7dafbab53e69)
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/28ce46e2-0ddb-46e9-af3f-4c8f0616a219" alt="Billy Tien" width="50%">
+</div>
 
 
 
