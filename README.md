@@ -14,7 +14,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/ping-li tien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ping-li tien" height="30" width="40" /></a>
 <a href="https://instagram.com/billyten_0208" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="billyten_0208" height="30" width="40" /></a>
-<a href="https://discord.gg/billytien_81397" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="billytien_81397" height="30" width="40" /></a>
+<a href="https://discord.gg/billytien" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="billytien_81397" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
